@@ -1,7 +1,7 @@
 # Overview of the analysis
 
 
-Marian wanted to redo the scores of Thomas High School because of some cheating involvement. Basically the point is to replace the MAth and Reading scores from the high school wiht NaNs and keep all other data.
+Marian wanted to redo the scores of Thomas High School because of the data being compromised. Basically the point is to replace the MAth and Reading scores from the high school wiht NaNs and keep all other data.
 
 # Results
 
